@@ -15,7 +15,7 @@ Citation
 **Please kindly cite the papers if this code is useful and helpful for your research.**
 
      @inproceedings{hong2018joint,
-      title     = {Joint \& progressive learning from high-dimensional data for multi-label classification},
+      title     = {Joint & progressive learning from high-dimensional data for multi-label classification},
       author    = {Hong, Danfeng and Yokoya, Naoto and Xu, Jian and Zhu, Xiaoxiang},
       booktitle = {Proceedings of the European Conference on Computer Vision (ECCV)},
       pages     = {469--484},
