@@ -7,7 +7,7 @@ The code in this toolbox implements the ["Joint & Progressive Learning from High
 More specifically, it is detailed as follow.
 
 
-![alt text](./workflow_RS.png)
+![alt text](./Figure.png)
 
 Citation
 ---------------------
