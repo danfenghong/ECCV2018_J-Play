@@ -16,10 +16,17 @@ Citation
 
      @inproceedings{hong2018joint,
       title     = {Joint & progressive learning from high-dimensional data for multi-label classification},
-      author    = {Hong, Danfeng and Yokoya, Naoto and Xu, Jian and Zhu, Xiaoxiang},
+      author    = {Hong, Danfeng and Yokoya, Naoto and Xu, Jian and Zhu, Xiao Xiang},
       booktitle = {Proceedings of the European Conference on Computer Vision (ECCV)},
       pages     = {469--484},
       year      = {2018}
+     }
+     
+     @inproceedings{hong2020joint,
+      title     = {Joint and Progressive Subspace Analysis (JPSA) with Spatial-Spectral Manifold Alignment for Semi-Supervised Hyperspectral Dimensionality Reduction},
+      author    = {Hong, Danfeng and Yokoya, Naoto and Chanussot, Jocelyn and Xu, Jian and Zhu, Xiao Xiang},
+      booktitle = {IEEE Trans. Cybern.},
+      year      = {2020}
      }
 
 
